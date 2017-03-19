@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>js秒表</title>
+	<style>
+    h1{
+    	background-color: #000;
+    	color:#fff;
+    	text-align: center;
+    	width:100%;
+    	height:50px;
+    	line-height: 50px;
+    }
+	</style>
+</head>
+<body>
+	<h1 id="now"></h1>
+</body>
+<script>
+setInterval(function(){
+ objs=new Date();
+ year=objs.getFullYear();
+ month=objs.getMonth()+1;
+ day=objs.getDate();
+ hour=objs.getHours();
+ minute=objs.getMinutes();
+ second=objs.getSeconds();
+ nowtime=year+'-'+month+'-'+day+' '+hour+':'+minute+':'+second;
+  
+ nowobj=document.getElementById('now');
+ nowobj.innerHTML=nowtime;
+ },1000);
+</script>
+</html>
