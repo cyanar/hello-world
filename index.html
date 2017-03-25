@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>变色</title>
+	<style>
+	button {
+		width: 100px;
+		background-color: white;
+		font-size:30px;
+		margin:0 auto;
+	}
+	</style>
+</head>
+<body>
+	<button id="change">变色</button>
+</body>
+<script>
+ cobj = document.getElementById('change');
+ arr1 = ['red','green','blue','pink','yellow','black'];
+
+ cobj.onclick=function(){
+             var i=Math.floor(Math.random()*6);
+ 			document.body.style.backgroundColor=arr1[i];
+ 	
+ 
+ }
+</script>
+</html>
