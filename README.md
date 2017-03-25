@@ -28,7 +28,7 @@ http:www.baidu.com
 >2016年9月20日 - 以上就是我实现的这个简单的多行文本显示控件。当然现在还很不完善,以后其还可以添加一些其他的API、自定义属性等,欢迎提出,对于源码有兴趣的同学可以...
 ![baidu](http://www.baidu.com/images/logo.gif "百度logo")
 ![](https://github.com/cyanar/hello-world/raw/master/testpic/lufei.jpg)
-```
+```java
 public static void main(string[]args){}//java
 ```
 # hello-world
