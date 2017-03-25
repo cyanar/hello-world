@@ -16,7 +16,7 @@ http:www.baidu.com
   还没完
   <br>
   thank you ,please `call` me `coder`.
-  [我的博客](http://www.cnblogs.com/gucan/)
+  [我的博客](http://www.cnblogs.com/gucan/ "悬停显示")
 # hello-world
 my first repository
 followed by the git-guide, i'm changing this branch for test
