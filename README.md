@@ -17,6 +17,9 @@ http:www.baidu.com
   <br>
   thank you ,please `call` me `coder`.
   [我的博客](http://www.cnblogs.com/gucan/ "悬停显示")
+  * 昵称
+  * 地址
+  * 联系方式
 # hello-world
 my first repository
 followed by the git-guide, i'm changing this branch for test
