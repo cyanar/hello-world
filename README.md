@@ -21,7 +21,7 @@ http:www.baidu.com
   * 地址
     * 联系方式
 >2016年9月20日 - 以上就是我实现的这个简单的多行文本显示控件。当然现在还很不完善,以后其还可以添加一些其他的API、自定义属性等,欢迎提出,对于源码有兴趣的同学可以...
-![](http://www.baidu.com/images/logo.gif)
+![baidu](http://www.baidu.com/images/logo.gif "百度logo")
 
 # hello-world
 my first repository
