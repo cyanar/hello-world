@@ -20,6 +20,10 @@ http:www.baidu.com
 * 昵称 
   * 地址
     * 联系方式
+>数据结构
+>>树
+>>>二叉树
+>>>>平衡二叉树
 # hello-world
 my first repository
 followed by the git-guide, i'm changing this branch for test
