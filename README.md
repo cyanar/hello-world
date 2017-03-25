@@ -20,10 +20,8 @@ http:www.baidu.com
 * 昵称 
   * 地址
     * 联系方式
->数据结构
->>树
->>>二叉树
->>>>平衡二叉树
+>2016年9月20日 - 以上就是我实现的这个简单的多行文本显示控件。当然现在还很不完善,以后其还可以添加一些其他的API、自定义属性等,欢迎提出,对于源码有兴趣的同学可以...
+
 # hello-world
 my first repository
 followed by the git-guide, i'm changing this branch for test
