@@ -14,6 +14,8 @@ http:www.baidu.com
   我是多行文本
   还没完哦
   还没完
+  <br>
+  thank you ,please 'call' me 'coder'.
 # hello-world
 my first repository
 followed by the git-guide, i'm changing this branch for test
