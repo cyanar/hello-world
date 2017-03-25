@@ -10,6 +10,7 @@
 看我有没有换行<br>
 看我有没有<br>换行
 http:www.baidu.com
+    单行文本
 # hello-world
 my first repository
 followed by the git-guide, i'm changing this branch for test
